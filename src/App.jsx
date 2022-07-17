@@ -16,6 +16,7 @@ export function App() {
             author='Andrei'
             content='Loren Ipson'
           ></Post>
+          
           <Post
             author='Ferreira'
             content='Loren Ipsont'
