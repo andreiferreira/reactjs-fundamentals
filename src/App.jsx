@@ -21,7 +21,7 @@ export function App() {
             author='Ferreira'
             content='Loren Ipsont'
           ></Post>
-        </main>
+        </main> 
       </div>
     </div>
   )
